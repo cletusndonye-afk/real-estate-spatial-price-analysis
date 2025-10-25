@@ -57,11 +57,14 @@ The goal is to showcase how spatial data and machine learning can be combined to
 Spatial Data Analyst | AI & Remote Sensing Enthusiast  
 📍 Kenya  
 (https://github.com/cletusndonye-afk/real-estate-spatial-price-analysis
+
 [real_estate_prices.csv](https://github.com/user-attachments/files/23143508/real_estate_prices.csv)
+
 [real_estate_price_map.html](https://github.com/user-attachments/files/23143507/real_estate_price_map.html)
+
 [price_prediction_results.csv](https://github.com/user-attachments/files/23143506/price_prediction_results.csv)
-<img width="2448" height="1407" alt="feature_importance" src="https://github.com/user-attachments/assets/136c75e8-6c0f-45ca-8979-767e8f2dc354" />
-)
+
+<img width="2448" height="1407" alt="feature_importance" src="https://github.com/user-attachments/assets/136c75e8-6c0f-45ca-8979-767e8f2dc354" />)
 
 ---
 
